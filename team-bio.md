@@ -1,8 +1,0 @@
-# Team 3
-
-## Edgaras
-**About Me**
-I'm a third-year Software Engineering student at Vilnius TECH University, based in Vilnius, Lithuania. Outside of my studies, I'm a big fan of automotive sports like rally and drifting, and I love spending time on outdoor activities. When I'm not watching others tear up the track, you'll often find me gaming, which fits naturally with my interest in technology and problem-solving.
-
-**My Bootcamp Goals**
-Through this bootcamp, I aim to strengthen my fundamental knowledge of Java and build a solid foundation in the language and OOP principles. I'm especially eager to gain an in-depth understanding of Spring Security and to learn practical Spring Boot optimization techniques that I can apply to real-world projects. I believe security and optimization to be most important aspects of any application. Alongside these technical objectives, I want to develop my soft skills, since clear communication and effective collaboration are just as essential as writing good code.
