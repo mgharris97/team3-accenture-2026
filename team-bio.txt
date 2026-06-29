@@ -19,3 +19,4 @@ During this bootcamp, my primary focuses are:
 * Building REST APIs and mastering data persistence using databases.
 * Experiencing Agile team collaboration at a larger scale.
 * Mastering advanced version control practices to collaborate seamlessly with a development team.
+* Mastering advanced version control practices to collaborate seamlessly with a development team.
