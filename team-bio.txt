@@ -1,0 +1,3 @@
+My name is Raivis
+- i live in Rīga grew up in a countryside enviorment, my main hobbys are game development, cycling, exploring doing random new activities.
+- Main things i want to learn during this bootcamp are: strenghtening core java fundementals, strenghtening REST API skills, data parsistance using databases with java, agile team collaboration at a bigger scale and advanced version control pracitces.
