@@ -14,23 +14,3 @@ Security and to learn practical Spring Boot optimization techniques that I can a
 I believe security and optimization to be most important aspects of any application. Alongside these technical 
 objectives, I want to develop my soft skills, since clear communication and effective collaboration are just 
 as essential as writing good code.
-Hello,
-I am Karyna
-I am a second year student at Vilniaus Kolegija
-I do sports as a hobby
-Travelling is my passion
-
-My goals are:
--Dive into team work
--Deepen Spring Boot knowledge
--Apply and strengthen REST API and db skills
--Create a real-life project that may help humanity solve its at least one problem
-### About Me
-My name is Raivis, and I live in Rīga. I grew up in a countryside environment. My main hobbies include game development, cycling, and exploring random new activities. 
-
-### Bootcamp Goals
-During this bootcamp, my primary focuses are:
-* Strengthening my core Java fundamentals.
-* Building REST APIs and mastering data persistence using databases.
-* Experiencing Agile team collaboration at a larger scale.
-* Mastering advanced version control practices to collaborate seamlessly with a development team.
