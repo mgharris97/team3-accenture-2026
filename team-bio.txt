@@ -1,14 +1,3 @@
-Hello,
-I am Karyna
-I am a second year student at Vilniaus Kolegija
-I do sports as a hobby
-Travelling is my passion
-
-My goals are:
--Dive into team work
--Deepen Spring Boot knowledge
--Apply and strengthen REST API and db skills
--Create a real-life project that may help humanity solve its at least one problem
 ### About Me
 My name is Raivis, and I live in Rīga. I grew up in a countryside environment. My main hobbies include game development, cycling, and exploring random new activities. 
 
